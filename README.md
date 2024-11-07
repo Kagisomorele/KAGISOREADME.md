@@ -1,3 +1,3 @@
 # KAGISOREADME.md
 TESTREPO
-Its a markdow file in this repository
+It's a markdown file in this repository
